@@ -1,0 +1,16 @@
+{
+  "names": [
+    "Basophil",
+    "Eosinophil",
+    "Lymphocyte",
+    "Monocyte",
+    "Neutrophil"
+  ],
+  "ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ]
+}

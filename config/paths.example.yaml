@@ -1,0 +1,19 @@
+# Copy this file to config/paths.yaml and update paths for your machine.
+#
+# You can also override any key with an env var:
+#   LF_CBM_PATH_<UPPERCASE_KEY>
+# Example:
+#   LF_CBM_PATH_PBC_ROOT=/path/to/PBC/images
+
+# --- Required for the paper experiments in this repo ---
+pbc_root: /path/to/PBC_dataset_normal_DIB
+raabinwbc_testA_root: /path/to/RaabinWBC/TestA
+fitzskin_root: /path/to/fitzpatrick17k_root
+ddi_images_root: /path/to/DDI_root
+
+# --- Optional: override if your CSVs are elsewhere ---
+# raabinwbc_testA_csv: /path/to/RaabinWBCTestA.csv
+# fitzskin_train_csv: /path/to/fitz_v3_train.csv
+# fitzskin_test_csv: /path/to/fitz_v3_test.csv
+# ddi_test_csv: /path/to/ddi_v1_test.csv
+# ddi_label_2_class: /path/to/label_2classes.yml

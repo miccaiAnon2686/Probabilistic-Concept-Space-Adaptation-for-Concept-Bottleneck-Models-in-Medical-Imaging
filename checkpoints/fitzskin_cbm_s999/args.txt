@@ -1,0 +1,17 @@
+{
+  "dataset": "fitzskin",
+  "backbone": "clip_ViT-B/16",
+  "feature_layer": "cls_preproj",
+  "device": "cuda",
+  "batch_size": 512,
+  "saga_batch_size": 256,
+  "activation_dir": "saved_activations",
+  "save_dir": "checkpoints",
+  "proj_lr": 0.005,
+  "proj_steps": 100,
+  "lam": 0.0,
+  "n_iters": 100,
+  "seed": 999,
+  "n_classes": 2,
+  "dataset_tag": "fitzskin"
+}
