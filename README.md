@@ -1,7 +1,7 @@
 # Anonymous Code Repository
 
 Code for the paper:
-**Probabilistic Concept-Space Adaptation for Concept Bottleneck Models in Medical Imaging**.
+**A Probabilistic Source-Free Domain Adaptation Method  for Concept Bottleneck Models**.
 
 Not included:
 - Raw medical images (PBC, RaabinWBC, Fitzpatrick17k, DDI)
